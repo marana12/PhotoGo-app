@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "237292773319",
+    "firebase_url": "https://photogo-57272.firebaseio.com",
+    "project_id": "photogo-57272",
+    "storage_bucket": "photogo-57272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237292773319:android:6e491b9df09d7619",
+        "android_client_info": {
+          "package_name": "com.example.julio.photogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237292773319-kv4dgelo70qrdckmvofubksep5ev3uji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.julio.photogo",
+            "certificate_hash": "a1dd64eb8de58cda11dcad9a6bf8b493fc2e4fe1"
+          }
+        },
+        {
+          "client_id": "237292773319-ji1sasojk4ai1kpv2t9njj5nkdqjd4b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8DUuL1PwPnP7A2P7qKIXBiL5N2649Iug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237292773319-ji1sasojk4ai1kpv2t9njj5nkdqjd4b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

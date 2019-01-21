@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">התחל</string>
+    <string name="camera">מיקום חדש</string>
+    <string name="map">מפה</string>
+    <string name="logout">התנתקות</string>
+    <string name="perfil">פרופיל</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.BottomNavigationView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:design="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottomNavigationView"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+
+    android:background="@drawable/gradient"
+    design:menu="@menu/menu_updown"
+    tools:context=".Principal_Activity">
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/bottomNavigationView"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+
+
+        tools:ignore="DuplicateIds" />
+
+</android.support.design.widget.BottomNavigationView>
+

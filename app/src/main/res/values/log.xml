@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_log">התחבר דרך פייסבוק</string>
+    <string name="or">או</string>
+    <string name="user">שם משתמש</string>
+    <string name="pass">סיסמה</string>
+    <string name="login">התחבר</string>
+    <string name="register">הירשם</string>
+    <string name="name">שם</string>
+    <string name="l_name">שם משפחה</string>
+    <string name="email">מייל</string>
+    <string name="c_pass">אשר סיסמה</string>
+    <string name="create_acount">צור חשבון</string>
+
+    <string name="welcome">ברוך הבאה</string>
+    <string name="cancel_login">ביטול התחברות</string>
+    <string name="error_login">שגיאה בעת התחברות</string>
+
+</resources>

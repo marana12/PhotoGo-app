@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="str_img">ניהול תמונה</string>
+    <string name="select_img">בחר תמונה</string>
+
+    <string name="im_in_the_place">המיקום שלי</string>
+    <string name="name_of_location">שם של המיקום</string>
+    <string name="coment">פירוט של המקום...</string>
+    <string name="coordinates">קואורדינטות\u200e:</string>
+    <string name="nothing_select">לא נבחר מקום</string>
+    <string name="search"> חפש\u200e...</string>
+    <string name="addlocation">הוסף מיקום</string>
+    <string name="address">כתובת\u200e:</string>
+    <string name="category">קטגוריה\u200e:</string>
+    <string name="zone">איזור\u200e:</string>
+    <string name="by">צולם ע"י\u200e:</string>
+    <string name="removepicture">אתה רוצה למחוק את המיקום?</string>
+
+
+    <!--Dialog Camera-->
+
+    <!--******************LoadImage()*******************-->
+    <string name="select_options">בחר אפשרות</string>
+    <string name="take_photo">צלם</string>
+    <string name="load_image">בחר מגלרייה</string>
+    <string name="cancel">בטל</string>
+    <string name="selectapp">בחר אפליקציה</string>
+    <!--************onActivityResult()******************-->
+    <string name="path_save">נתיב אחסון</string>  <!--onActivityResult()-->
+    <!--***************DialogLoaderlocal()**************-->
+    <string name="disabled_permissions">הרשאות מושבתות</string>
+    <string name="alert_permissions">עליך לאשר את ההרשאות לתפקוד התקין של האפליקציה</string>
+    <string name="accept">אשר</string>
+    <!--***********requestManualPerrmission()************-->
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="requestmanualperrmission">האם ברצונך להגדיר את ההרשאות באופן ידני?</string>
+    <string name="permissionotaccepted">לא אושרו ההרשאות</string>
+
+
+
+    <!--Dialog GPS-->
+    <string name="gps_disable">המיקום שלך כבוי! האם ברצונך להפעיל אותו?</string>
+    <string name="enable_GPS">הפעל מיקום</string>
+    <string name="do_nothing">לא לעשות כלום</string>
+</resources>

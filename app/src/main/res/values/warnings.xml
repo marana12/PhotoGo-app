@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty_label">תווית אחת או יותר ריקות</string>
+    <string name="not_confirm">הסיסמאות לא תואמות</string>
+    <string name="not_login">שם משתמש או סיסמה שגויים</string>
+    <string name="aChar">אסור לכתוב תווים בשמות</string>
+    <string name="pass_length"> הסיסמה צריכה להכיל בין 8 ל 16 תווים</string>
+    <string name="pass_char">הסיסמה צריכה להכיל תווים ואותיות, לדוגמה. "P@ssw0rd" </string>
+    <string name="user_exist">שם משתמש זה קיים במערכת </string>
+</resources>

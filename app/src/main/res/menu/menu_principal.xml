@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Principal_Activity"
+    >
+
+
+
+    <item
+        android:id="@+id/menubtn"
+        android:icon="@drawable/menu"
+        android:title="menulogo"
+        android:visible="true"
+        app:showAsAction="always"
+        >
+
+        <menu xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            
+            >
+            <item
+                android:id="@+id/gohome"
+                android:layout_height="match_parent"
+                android:title="@string/home"
+                android:visible="true" />
+
+            <item
+                android:id="@+id/perfil"
+                android:layout_height="match_parent"
+                android:title="@string/perfil"
+                android:visible="true" />
+
+
+            <item
+                android:id="@+id/exit"
+                android:layout_height="match_parent"
+                android:title="@string/logout"
+                android:visible="true" />
+        </menu>
+
+
+    </item>
+
+
+
+
+
+</menu>
